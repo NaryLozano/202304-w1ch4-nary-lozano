@@ -54,9 +54,9 @@ button {
   width: 35rem;
 }
 
-
 .main-div__img:hover {
   opacity: 0.5%;
+}
 
 .main-div__img--hover {
   opacity: 1%;
